@@ -1,0 +1,31 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+html {
+	font-size: 10px;
+}
+body {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background-color: #fff;
+	font-size: 2rem;
+}
+.container {
+	margin-top: 5rem;
+}
+.circles-text {
+  font-size: 6rem !important;
+  font-weight: bold;
+  line-height: 6rem !important;
+  margin-top: 70px;
+}
+.circle span {
+  display: block;
+  line-height: 20px;
+  font-weight: normal;
+  font-size: 16px;
+  color: #919191;
+  text-transform: uppercase;
+}
